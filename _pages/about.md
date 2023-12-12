@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student from [School of MSIS]([https://eecs.pku.edu.cn/](https://www.sci.pitt.edu/academics/undergraduate-majors/information-science), [University of Pittsburgh](https://www.pitt.edu/). My research interest includes data modeling, machine learning, deep learning and software development.
+I'm a graduate student from [School of MSIS](https://www.sci.pitt.edu/academics/undergraduate-majors/information-science), [University of Pittsburgh](https://www.pitt.edu/). My research interest includes data modeling, machine learning, deep learning and software development.
 
 You can find my CV here: [GeMa_cv](../assets/GeMa_CV.pdf).
 
